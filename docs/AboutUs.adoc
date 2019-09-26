@@ -15,7 +15,7 @@ image::williamryank.png[width="150", align="left"]
 {empty}[https://github.com/WilliamRyank[github]] [<<johndoe#, portfolio>>]
 
 Role: Team Lead +
-Responsibilities: Overall project coordination
+Responsibilities: In charge of overall project coordination.
 
 '''
 
@@ -24,7 +24,7 @@ image::c-likethis123.png[width="150", align="left"]
 {empty}[https://github.com/C-likethis123[github]] [<<johndoe#, portfolio>>]
 
 Role: Deliverables and Deadlines +
-Responsibilities: Ensure project deliverables are done in right format and submitted on time
+Responsibilities: Ensure project deliverables are done in right format and submitted on time.
 
 '''
 
@@ -33,7 +33,7 @@ image::therealravager.png[width="150", align="left"]
 {empty}[https://github.com/TheRealRavager[github]] [<<johndoe#, portfolio>>]
 
 Role: Tester +
-Responsibilities: Testing
+Responsibilities: Ensures the testing of the project is done properly and on time.
 
 '''
 
@@ -42,7 +42,7 @@ image::simnee.png[width="150", align="left"]
 {empty}[https://github.com/SimNee[github]] [<<johndoe#, portfolio>>]
 
 Role: Code Quality +
-Responsibilities: Ensure proper coding standards are followed
+Responsibilities: Ensure proper coding standards are followed.
 
 '''
 
@@ -50,7 +50,7 @@ Responsibilities: Ensure proper coding standards are followed
 image::yen-peng.png[width="150", align="left"]
 {empty}[http://github.com/Yen-Peng[github]] [<<johndoe#, portfolio>>]
 
-Role: UI +
-Responsibilities: SceneBuilder
+Role: UI designer +
+Responsibilities: In charge of the UI design of the application.
 
 '''
