@@ -6,7 +6,7 @@
 
 ORGANice Transplant Manager is being developed by team https://github.com/AY1920S1-CS2103T-T13-1[CS2103T-T13-1]. +
 
-We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
+We are a group of students in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
 
 == Project Team
 
@@ -33,7 +33,7 @@ image::therealravager.png[width="150", align="left"]
 {empty}[https://github.com/TheRealRavager[github]] [<<johndoe#, portfolio>>]
 
 Role: Tester +
-Responsibilities: Testing
+Responsibilities: Ensures the testing of the project is done properly and on time.
 
 '''
 
@@ -42,7 +42,7 @@ image::simnee.png[width="150", align="left"]
 {empty}[https://github.com/SimNee[github]] [<<johndoe#, portfolio>>]
 
 Role: Code Quality +
-Responsibilities: Ensure proper coding standards are followed
+Responsibilities: Ensure proper coding standards are followed.
 
 '''
 
@@ -50,7 +50,7 @@ Responsibilities: Ensure proper coding standards are followed
 image::yen-peng.png[width="150", align="left"]
 {empty}[http://github.com/Yen-Peng[github]] [<<johndoe#, portfolio>>]
 
-Role: UI +
-Responsibilities: SceneBuilder
+Role: UI design +
+Responsibilities: In charge of the UI design of the application.
 
 '''
